@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
+<div align="center">
+  <img src="./assets/personal-readme-gift.gif"/>
+</div>
+
 ### 🚀 About me
 
 - 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
@@ -9,7 +13,9 @@
 
 ### 🛠 Tecnologías y herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=vue,laravel,php,js,nuxt,mysql)](https://skillicons.dev)
+<div align="center">
+  <img src="./icons/vue.svg" width="40"/>
+</div>
 
 ### 📌 Portafolio
 
