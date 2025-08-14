@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
-
 ### 🚀 About me
-- 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.  
-- 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.  
-- 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)  
 
+- 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
+- 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.
+- 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
 
 ### 🛠 Tecnologías y herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,javascript,node,nuxt,js,html,css,tailwind,git,github," />
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=vue,laravel,php,js,nuxt,mysql)](https://skillicons.dev)
 
 ### 📌 Portafolio
+
 [![Portafolio](https://img.shields.io/badge/🌐_Ver_mi_portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
 
-
 ### 📊 Estadísticas de GitHub
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel242002&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel242002&layout=compact&theme=tokyonight" />
 </p>
 
-
 ### 📬 Conéctate conmigo
+
 <p align="center">
   <a href="https://linkedin.com/in/daniel-arcos-469bb61ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/daniel_arcos24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
