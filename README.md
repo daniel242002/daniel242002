@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
-<hr>
+---
 
 ### 🚀 About me
 - 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.  
