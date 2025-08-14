@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
----
 
 ### 🚀 About me
 - 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.  
@@ -13,6 +12,8 @@
   <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,javascript,node,nuxt,js,html,css,tailwind,git,github," />
 </p>
 
+---
+
 ### 📌 Portafolio
 [![Portafolio](https://img.shields.io/badge/🌐_Ver_mi_portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
 
@@ -21,6 +22,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel242002&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel242002&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 ### 📬 Conéctate conmigo
 <p align="center">
