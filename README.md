@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
-<div align="center" style="width:100%">
-  <img src="./assets/personal-readme-gift.gif"/>
+<div align="center">
+  <img src="./assets/personal-readme-gift.gif" width="100%"/>
 </div>
 
 ### 🚀 About me
@@ -13,9 +13,9 @@
 
 ### 🛠 Tecnologías y herramientas
 
-<div align="center" style="display: flex; justify-content: space-around; gap: 5px">
-  <img src="./icons/vue.svg" width="40"/>
-  <img src="./icons/laravel.svg" width="40"/>
+<div align="center">
+  <img src="./icons/vue.svg" width="40" hspace="10"/>
+  <img src="./icons/laravel.svg" width="40" hspace="10"/>
 </div>
 
 ### 📌 Portafolio
