@@ -11,20 +11,14 @@
   <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,javascript,node,nuxt,js,html,css,tailwind,git,github," />
 </p>
 
----
-
 ### 📌 Portafolio
 [![Portafolio](https://img.shields.io/badge/🌐_Ver_mi_portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
-
----
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel242002&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel242002&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 ### 📬 Conéctate conmigo
 <p align="center">
