@@ -2,7 +2,7 @@
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
 <div align="center">
-  <img src="./assets/img-readme3.png" width="100%"/>
+  <img src="./assets/img-readme3.png" width="80%"/>
 </div>
 
 ### 🚀 About me
