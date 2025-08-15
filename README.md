@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
-## 🚀 About me
+### 🚀 About me
 
 <img src="./assets/img-readme.gif"  height="250px" align="right"/>
 
@@ -10,8 +10,6 @@
 - 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.
 
 - 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
-
----
 
 ### 🛠 Tecnologías y herramientas
 
