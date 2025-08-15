@@ -26,6 +26,8 @@
 <div align="center">
   <img src="./icons/vue.svg" width="40" hspace="10"/>
   <img src="./icons/laravel.svg" width="40" hspace="10"/>
+  <img src="./icons/html.svg" width="40" hspace="10"/>
+  <img src="./icons/css.svg" width="40" hspace="10"/>
 </div>
 
 ### 📌 Portafolio
