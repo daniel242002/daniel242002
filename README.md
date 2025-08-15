@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
-<div align="center">
-  <img src="./assets/img-readme.avif" width="60%"/>
-</div>
-
 ### 🚀 About me
 
+<div align="center">
 - 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
 - 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.
 - 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
+  <div>
+    <img src="./assets/img-readme.gif" width="60%"/>
+  </div>
+</div>
 
 ### 🛠 Tecnologías y herramientas
 
