@@ -2,7 +2,7 @@
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
 <div align="center">
-  <img src="./assets/img-readme.gif" width="50%"/>
+  <img src="./assets/img-readme.avif" width="60%"/>
 </div>
 
 ### 🚀 About me
