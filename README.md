@@ -5,9 +5,9 @@
 
 <img src="./assets/img-readme.gif"  height="290px" align="right"/>
 <div align="left">
-- <p>🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.</p><br>
-- <p>🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.</p><br>
-- <p>📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)</p><br>
+<p>- 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.</p>
+<p>- 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.</p>
+<p>- 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)</p>
 </div>
 
 ### 🛠 Tecnologías y herramientas
