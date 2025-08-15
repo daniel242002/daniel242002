@@ -24,10 +24,24 @@
 ### 🛠 Tecnologías y herramientas
 
 <div align="center">
-  <img src="./icons/vue.svg" width="40" hspace="10"/>
-  <img src="./icons/laravel.svg" width="40" hspace="10"/>
   <img src="./icons/html.svg" width="40" hspace="10"/>
   <img src="./icons/css.svg" width="40" hspace="10"/>
+  <img src="./icons/js.svg" width="40" hspace="10"/>
+  <img src="./icons/ts.svg" width="40" hspace="10"/>
+  <img src="./icons/vue.svg" width="40" hspace="10"/>
+  <img src="./icons/react.svg" width="40" hspace="10"/>
+  <img src="./icons/nuxt.svg" width="40" hspace="10"/>
+  <img src="./icons/node.svg" width="40" hspace="10"/>
+  <img src="./icons/jquery.svg" width="40" hspace="10"/>
+  <img src="./icons/bootstrap.svg" width="40" hspace="10"/>
+  <img src="./icons/tailwind.svg" width="40" hspace="10"/>
+  <img src="./icons/git.svg" width="40" hspace="10"/>
+  <img src="./icons/github.svg" width="40" hspace="10"/>
+  <img src="./icons/figma.svg" width="40" hspace="10"/>
+  <img src="./icons/vite.svg" width="40" hspace="10"/>
+  <img src="./icons/php.svg" width="40" hspace="10"/>
+  <img src="./icons/laravel.svg" width="40" hspace="10"/>
+  <img src="./icons/mysql.svg" width="40" hspace="10"/>
 </div>
 
 ### 📌 Portafolio
