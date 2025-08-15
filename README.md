@@ -3,7 +3,7 @@
 
 ### 🚀 About me
 
-<img src="./assets/img-readme.gif"  height="250px" align="right"/>
+<img src="./assets/img-readme.gif"  height="200px" align="right"/>
 
 - 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
 
