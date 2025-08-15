@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'M Daniel Arcos</h1>
 <h3 align="center">💻 Frontend Developer & Tech Lover</h3>
 
+<img src="./assets/banner-readme.png" width="100%">
+
 ### 🚀 About me
 
-<img src="./assets/banner-readme.png"  height="270px" align="right"/>
+<img src="./assets/img-readme.gif"  height="270px" align="right"/>
 
 - 🌱 Mis conocimientos están enfocados en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
 
