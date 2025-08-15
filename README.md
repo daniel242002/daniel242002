@@ -4,9 +4,11 @@
 ### 🚀 About me
 
 <img src="./assets/img-readme.gif"  height="290px" align="right"/>
+<div align="left">
 - 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
 - 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.
 - 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
+</div>
 
 ### 🛠 Tecnologías y herramientas
 
