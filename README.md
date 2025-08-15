@@ -15,7 +15,7 @@
 
 - 📚 Siempre en busca de retos que me permitan crecer profesional y personalmente.
 
-- ⚡ Fun fact: Siempre busco automatizar pequeñas tareas para ahorrar tiempo y energía.
+- ⚡ Fun fact: Sé que algo anda mal en el proyecto cuando todo compila a la primera. 😏
 
 - 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
 
