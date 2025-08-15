@@ -5,9 +5,17 @@
 
 <img src="./assets/img-readme.gif"  height="240px" align="right"/>
 
-- 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
+- 🌱 Mis conocimientos están enfocados en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
 
-- 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.
+- 💡 Apasionado por crear experiencias web fluidas, optimizadas y visualmente atractivas.
+
+- 🔭 Me encanta trabajar en equipo, aprender cada día y aportar soluciones creativas a grandes ideas.
+
+- ⚡ Interesado en mejorar continuamente mis habilidades y explorar nuevas tecnologías como Node.js, TypeScript y Tailwind CSS.
+
+- 📚 Siempre en busca de retos que me permitan crecer profesional y personalmente.
+
+- ⚡ Fun fact: Siempre busco automatizar pequeñas tareas para ahorrar tiempo y energía.
 
 - 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
 
