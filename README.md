@@ -3,21 +3,10 @@
 
 ### 🚀 About me
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  
-  <div style="flex: 1;">
-    <ul>
-      <li>🌱 Actualmente me especializo en <strong>Vue</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>Nuxt</strong> y <strong>MySQL</strong>.</li>
-      <li>🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.</li>
-      <li>📫 <strong>Contáctame:</strong> <a href="mailto:danielestebanarcos.pro@gmail.com">danielestebanarcos.pro@gmail.com</a></li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="./assets/img-readme.gif" width="80%" />
-  </div>
-
-</div>
+<img src="./assets/img-readme.gif"  height="290px" align="right"/>
+- 🌱 Actualmente me especializo en **Vue**, **Laravel**, **JavaScript**, **PHP**, **Nuxt** y **MySQL**.
+- 🔭 Me encanta trabajar en equipo, aprender cada día y ser parte de grandes ideas.
+- 📫 **Contáctame:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
 
 ### 🛠 Tecnologías y herramientas
 
