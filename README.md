@@ -23,7 +23,7 @@
 
 ### 🛠 Tecnologías y herramientas
 
-<div align="center">
+<div>
   <img src="./icons/html.svg" width="40" hspace="10"/>
   <img src="./icons/css.svg" width="40" hspace="10"/>
   <img src="./icons/js.svg" width="40" hspace="10"/>
