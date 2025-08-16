@@ -46,7 +46,7 @@
 
 ### 📌 Portfolio
 
-[![Portafolio](https://img.shields.io/badge/🌐_Ver_mi_portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app)
+[![Portafolio](https://img.shields.io/badge/🌐_View_my_portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://daniel-arcos.vercel.app/)
 
 ### 📊 GitHub Statistics
 
@@ -58,7 +58,7 @@
 ### 📬 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/daniel-arcos-469bb61ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-arcos-469bb61ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/daniel_arcos24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://facebook.com/danielesteban.arcoscorrea"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://github.com/daniel242002"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
