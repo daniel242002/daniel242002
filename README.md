@@ -17,7 +17,7 @@
 
 - 📚 Always looking for challenges that allow me to grow professionally and personally.
 
-- ⚡ Fun fact: I know something is wrong with the project when everything compiles on the first try. 😏
+- ⚡ Fun fact: “Works on my machine” is my official slogan. 😏
 
 - 📫 **Contact me:** [danielestebanarcos.pro@gmail.com](mailto:danielestebanarcos.pro@gmail.com)
 
